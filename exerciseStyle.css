@@ -69,7 +69,7 @@ html {
 
 .right-section {
     width: 66%;
-    height: 100vh;
+    height: 120vh;
     background-color: #FFC062; /* Color de fondo de la sección derecha */
     float: left; /* Hace que la sección derecha esté a la derecha */
 }
