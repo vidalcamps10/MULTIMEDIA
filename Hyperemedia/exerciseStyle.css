@@ -1,0 +1,193 @@
+
+
+html {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.container {
+    width: 630px;
+    height: 780px; /* Ajusta este valor al ancho deseado para el contenido */
+    margin: 0 auto; /* Centra el contenido en el centro horizontalmente */
+    padding: 20px; /* Agrega espacio de relleno alrededor del contenido si es necesario */
+    box-sizing: border-box; /* Incluye el padding en el ancho total */
+}
+
+.left-section {
+    width: 34%;
+    height: 100vh; /* Establece la altura del viewport */
+    background-color: white; /* Color de fondo de la sección izquierda */
+    float: left; /* Hace que la sección izquierda esté a la izquierda */
+}
+.imagenes{
+ margin-top: 210px;
+ margin-right: 0px;
+}
+
+.imagen1{
+    width: 18px;
+    margin-left: 62px;
+    margin-bottom:18px ;
+    display: block;
+}
+.imagen-con-texto {
+    display: flex; 
+    margin-left: -37px; /* Agrega espacio entre la imagen y el texto */
+    margin-right: -20px;
+}
+.imagen1 + p{
+    margin-top: 2px;
+    margin-left: -35px;
+}
+
+.subtitle4{
+    font-family: 'Karla', sans-serif;
+    font-size: 12px; /* Ajusta este valor para cambiar el tamaño del subtítulo */
+    font-weight: bold; /* Puedes ajustar el peso de la fuente según tus necesidades */
+    margin-top: 0px; /* Espaciado desde el título principal */
+    margin-left: 25px;
+}
+.paragraph3{
+    margin-top: 24px;
+}
+
+.li1 {
+    line-height: 1.1;
+    font-family: 'Karla', sans-serif;
+    font-size: 12px; /* Ajusta este valor según tus necesidades */
+    font-weight: normal; 
+}
+.li2 {
+    margin-left:0px;
+    line-height: 1.1;
+    font-family: 'Karla', sans-serif;
+    font-size: 12px; /* Ajusta este valor según tus necesidades */
+    font-weight: normal;
+    padding-right: 12px;
+}
+
+
+.right-section {
+    width: 66%;
+    height: 100vh;
+    background-color: #FFC062; /* Color de fondo de la sección derecha */
+    float: left; /* Hace que la sección derecha esté a la derecha */
+}
+
+.circle {
+    width: 144px; /* Ancho del círculo */
+    height: 144px; /* Altura del círculo */
+    background-color: white; /* Color de fondo del círculo */
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    position: relative; /* Permite posicionamiento absoluto dentro del contenedor */
+    margin-top:22%; /* Mueve el círculo al centro vertical del contenedor */
+    left: 12%;  /* Ajusta la posición horizontal del círculo */
+    overflow: hidden;
+    margin-bottom: -90%;
+}
+
+.circle img {
+    max-width: 100%;
+    max-height: 100%;  
+}
+
+.custom-title {
+    font-family: 'Karla', sans-serif; 
+    font-size: 40px; /* Tamaño de fuente 40 píxeles */
+    font-weight: normal ; /* Peso de fuente normal (regular) */
+    margin-top: 40px;
+    margin-left: 42px;
+}
+
+h2{
+    font-family: 'Karla', sans-serif;
+    font-size: 14px; /* Ajusta este valor para cambiar el tamaño del subtítulo */
+    font-weight: bold; /* Puedes ajustar el peso de la fuente según tus necesidades */
+    margin-top: 20px; /* Espaciado desde el título principal */
+    margin-left: 42px;
+}
+.subtitle { 
+    margin-top: 20px; 
+}
+.subtitle1{
+    margin-top: 40px;
+}
+.subtitle3{
+    margin-top:10%;
+    margin-bottom: -4px;
+}
+p {
+    font-family: 'Karla', sans-serif;
+    font-size: 12px; /* Ajusta este valor según tus necesidades */
+    font-weight: normal; /* Puedes ajustar el peso de la fuente según tus necesidades */
+    margin-top: 10px; /* Espaciado desde el subtítulo */
+    text-align: justify; /* Justifica el texto para que tenga el mismo ancho que las líneas */
+    padding-left: 42px; /* Espacio interno a la izquierda del texto */
+    padding-right: 42px; /* Espacio interno a la derecha del texto */
+    margin-bottom: -15px;
+}
+.paragraph2{
+    margin-top:30px;
+}
+
+.li3{
+    font-family: 'Karla', sans-serif;
+    font-size: 12px; /* Ajusta este valor según tus necesidades */
+    font-weight: normal; /* Puedes ajustar el peso de la fuente según tus necesidades */
+    margin-top: 5px; /* Espaciado desde el subtítulo */
+    margin-left: 21px;
+    text-align: justify; /* Justifica el texto para que tenga el mismo ancho que las líneas */
+    padding-right: 42px; /* Espacio interno a la derecha del texto */
+}
+
+.line, .linea{
+    width: 73%;
+    background-color: black;
+    border-color: 3px black;
+    border-style: solid;
+    height: 0.5px
+}
+
+.linea{
+    width: 77%;
+}
+
+
+
+.primera-linea {
+    margin-top:10px;
+}
+
+.segona-linea {
+    margin-top: 40px;
+}
+
+.tercera-linea {
+    margin-top: 40px;
+    height: 1px  
+}
+
+.linea1 {
+    margin: -10px auto;
+    height: 4px;
+}
+
+.linea2 {
+    top: 30px;
+    position: relative;
+    height: 1px
+    
+}
+
+.linea3 {
+    top: 30px;
+    position: relative;
+    height: 1px
+}
+
+
+
+
+
+
+
