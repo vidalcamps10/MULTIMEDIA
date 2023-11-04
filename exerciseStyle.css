@@ -58,7 +58,7 @@ html {
     font-weight: normal; 
 }
 .li2 {
-    margin-left:0px;
+    margin-right:10px;
     line-height: 1.1;
     font-family: 'Karla', sans-serif;
     font-size: 12px; /* Ajusta este valor según tus necesidades */
@@ -160,11 +160,12 @@ p {
 
 .segona-linea {
     margin-top: 40px;
+    height: 1px;
 }
 
 .tercera-linea {
     margin-top: 40px;
-    height: 1px  
+    height: 1px;
 }
 
 .linea1 {
@@ -182,7 +183,8 @@ p {
 .linea3 {
     top: 30px;
     position: relative;
-    height: 1px
+    height: 1px;
+    margin-bottom: 42px;
 }
 
 
