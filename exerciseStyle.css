@@ -7,21 +7,21 @@ html {
 
 .container {
     width: 630px;
-    height: 780px; /* Ajusta este valor al ancho deseado para el contenido */
-    margin: 0 auto; /* Centra el contenido en el centro horizontalmente */
+    height: 780px; 
+    margin: 0; /* Centra el contenido en el centro horizontalmente */
     padding: 20px; /* Agrega espacio de relleno alrededor del contenido si es necesario */
     box-sizing: border-box; /* Incluye el padding en el ancho total */
 }
 
 .left-section {
     width: 34%;
-    height: 100vh; /* Establece la altura del viewport */
+    height: 780px; /* Establece la altura del viewport */
     background-color: white; /* Color de fondo de la sección izquierda */
     float: left; /* Hace que la sección izquierda esté a la izquierda */
 }
 .imagenes{
- margin-top: 210px;
- margin-right: 0px;
+    margin-top: 210px;
+    margin-right: 0px;
 }
 
 .imagen1{
@@ -69,8 +69,8 @@ html {
 
 .right-section {
     width: 66%;
-    height: 120vh;
     background-color: #FFC062; /* Color de fondo de la sección derecha */
+    height: 780px;
     float: left; /* Hace que la sección derecha esté a la derecha */
 }
 
