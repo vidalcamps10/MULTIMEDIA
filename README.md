@@ -1,3 +1,4 @@
+#PROJECT ANALYSIS
 My curriculum is aimed at the profile of computer companies, which are dedicated to programming, web page management, database control and other aspects related to computer science. My choice to focus on this profile is based on my deep interest and passion for the computer world. I believe that computing is a constantly evolving field that presents exciting challenges and opportunities for innovation.
 
 In the curriculum you can find 6 sections to highlight:
